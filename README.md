@@ -10,7 +10,7 @@ sudo apt update && sudo apt install flex gcc
 
 ## Build
 ```bash
-flex analizador(1).l
+flex analizador(1).l (ignore warning)
 gcc lex.yy.c -o analizador -lfl
 ```
 
