@@ -18,7 +18,7 @@ gcc lex.yy.c -o analizador -lfl
 ## Run
 
 ```bash
-./analizador [nombre de archivo].txt
+./analizador(1) [nombre de archivo].txt
 ```
 
 
