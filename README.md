@@ -126,7 +126,4 @@ Id13=table
 Id14=y
 
 Total errores léxicos: 2
-
-
-Total errores léxicos: 10
 ```
